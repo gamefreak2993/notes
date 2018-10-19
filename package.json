@@ -1,7 +1,7 @@
 {
   "name": "notes-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Small Node.js application that allows managing of notes composed of a title and body.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,6 @@
   "author": "Mihai Vărșăndan",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
     "yargs": "^4.7.1"
   }
 }
