@@ -1,5 +1,5 @@
 # Notes
-Notes is a small Node.js application that allows managing of notes composed of a title and body..
+Notes is a small Node.js application that allows managing of notes composed of a title and body.
 ## Installation
 ### Requirements
 You'll need to have [**Git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [**Node.js**](https://nodejs.org/en/) installed.
